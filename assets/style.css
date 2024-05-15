@@ -163,6 +163,61 @@ header {
   border-radius: 5%;
   border: solid 1px yellow;
   cursor: pointer;
-
+  margin-bottom: 130px;
 }
 
+.img_nossaescola{
+  width: 560px;
+  height: 440px;
+  padding-left: 10px;
+}
+.nossa_escola{
+  background-color: #003464;
+  margin: 0 auto;
+  width: 85%;
+  max-width: 1200px;
+  min-width: 1100px;
+  font-weight: 300;
+}
+
+.text_nossa_escola_text{
+  color: #ffffff;
+  padding-left: 50px;
+  text-align: left;
+  max-width: 500px;
+  min-width: 500px;
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  padding-bottom: 35px;
+}
+
+.nossa_escola{
+  padding-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.text_nossa_escola{
+  color: #ffffff;
+  padding: 70px;
+  padding-left: 50px;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.contatos{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  font-size: 30px;
+  font-weight: 750;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  margin: 0 auto;
+  width: 85%;
+  max-width: 1200px;
+  min-width: 1100px;
+  font-weight: 900;
+
+
+}
